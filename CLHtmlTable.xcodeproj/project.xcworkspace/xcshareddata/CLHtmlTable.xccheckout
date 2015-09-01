@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>428F7A57-49FD-442A-BF12-AE437352DA4C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CLHtmlTable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5279f754-cdf1-684b-9073-7c5a83f871c3++2711</key>
+		<string>https://115.29.47.235/svn/ios/CLHtmlTable</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CLHtmlTable.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5279f754-cdf1-684b-9073-7c5a83f871c3++2711</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5279f754-cdf1-684b-9073-7c5a83f871c3++2711</key>
+		<string>https://115.29.47.235/svn/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://115.29.47.235/svn/ios/CLHtmlTable/CLHtmlTable.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5279f754-cdf1-684b-9073-7c5a83f871c3++2711</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5279f754-cdf1-684b-9073-7c5a83f871c3++2711</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CLHtmlTable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
